@@ -39,4 +39,7 @@ This project use for port python to Android(arm/x86/x86_64) with python2/python3
 
 
 
-# Link To
+# Reference
+
+- The cross-compiled python files come from [Kuri655336-python-for-android](https://github.com/kuri65536/python-for-android).
+- The `standalone_python.sh` modified from [RunPythonFromShell](https://code.google.com/archive/p/python-for-android/wikis/RunPythonFromShell.wiki).
